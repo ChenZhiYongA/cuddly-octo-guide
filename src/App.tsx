@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       hello world
+        <button className="btn">Button</button>
     </div>
   );
 }
